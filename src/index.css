@@ -18,7 +18,7 @@ html {
 }
 
 /* Fix for rounded buttons */
-.!rounded-button {
+.rounded-button {
   border-radius: 9999px !important;
 }
 
